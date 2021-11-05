@@ -1,0 +1,28 @@
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.exe
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.deps.json
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.json
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.dev.json
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.dll
+C:\Body-mass-index\Body mass index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.pdb
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.csproj.AssemblyReference.cache
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfoInputs.cache
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfo.cs
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.csproj.CoreCompileInputs.cache
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.dll
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.pdb
+C:\Body-mass-index\Body mass index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.genruntimeconfig.cache
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.exe
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.deps.json
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.json
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.runtimeconfig.dev.json
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.dll
+C:\Body-mass-index\Body mass index\bin\Debug\netcoreapp3.1\Body mass index.pdb
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.csproj.AssemblyReference.cache
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfoInputs.cache
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.AssemblyInfo.cs
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.csproj.CoreCompileInputs.cache
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.dll
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.pdb
+C:\Body-mass-index\Body mass index\obj\Debug\netcoreapp3.1\Body mass index.genruntimeconfig.cache
